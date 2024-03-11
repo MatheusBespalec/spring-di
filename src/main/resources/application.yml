@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: dev,mysql
+
+notification:
+  sms:
+    from: 11999990000
